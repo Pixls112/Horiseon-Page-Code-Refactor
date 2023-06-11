@@ -79,11 +79,15 @@ p {
     margin-left: 25px;
 }
 
+/* Affects anything that is nested between "main" semantic" */
+
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
+/* Helps with the style for anything using class=benifits found in "aside" semantic */
 
 .benefits {
     margin-right: 20px;
@@ -112,6 +116,8 @@ main {
     max-width: 150px;
 }
 
+/* Helps with the style for anything using class=Title foudn in "sections" semantics nested in "main" */
+
 .Title {
     margin-bottom: 20px;
     padding: 50px;
@@ -129,6 +135,8 @@ main {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* Affects the style for the "footer" semantic */
 
 footer {
     padding: 30px;
