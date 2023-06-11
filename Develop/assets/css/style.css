@@ -1,3 +1,5 @@
+/* The general style for the page */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,6 +9,8 @@
 body {
     background-color: #d9dcd6;
 }
+
+/* Sets the header style for page*/
 
 header {
     padding: 20px;
@@ -41,6 +45,8 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* This affects the text style of the page*/
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -50,6 +56,8 @@ p {
     font-size: 16px;
 }
 
+/* This is for the hero div */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -58,6 +66,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* Floats that affect image position */
 
 .float-left {
     float: left;
@@ -69,7 +79,7 @@ p {
     margin-left: 25px;
 }
 
-.content {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
