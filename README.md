@@ -21,7 +21,9 @@ N/A
 
 This is the link to access the site launched by github
 
-![HoriseoWebpage](./assets/images/Challenge Screenshot.png)
+https://pixls112.github.io/studentchallenge1Phil/
+
+![Challenge Screenshot](https://github.com/Pixls112/studentchallenge1Phil/assets/135586632/308c08b9-c5e4-4e02-bf12-d6034dfa34e7)
 
 ## License
 
