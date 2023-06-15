@@ -21,9 +21,9 @@ N/A
 
 This is the link to access the site launched by github
 
-https://pixls112.github.io/studentchallenge1Phil/
+https://pixls112.github.io/Horiseon-Page-Code-Refactor/
 
-![Challenge Screenshot](https://github.com/Pixls112/studentchallenge1Phil/assets/135586632/308c08b9-c5e4-4e02-bf12-d6034dfa34e7)
+![Challenge Screenshot](https://github.com/Pixls112/Horiseon-Page-Code-Refactor/blob/main/assets/images/Challenge%20Screenshot.png)
 
 ## License
 
